@@ -4,7 +4,7 @@ This program has two parts, a client side and a server side. Once the server is 
 
 I wrote this program to learn the basics of programming over a network.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZUMQsHkv3nw)
 
 # Network Communication
 
